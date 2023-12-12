@@ -1,3 +1,6 @@
+
 this is new git text file for learning git
 
 Hello - this is to check the changes
+,made the changes agin 
+:
